@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Shop-Laptop/static/css/main.6d84085c.chunk.css",
-    "main.js": "/Shop-Laptop/static/js/main.628d42c1.chunk.js",
-    "main.js.map": "/Shop-Laptop/static/js/main.628d42c1.chunk.js.map",
-    "runtime-main.js": "/Shop-Laptop/static/js/runtime-main.ec4ee05d.js",
-    "runtime-main.js.map": "/Shop-Laptop/static/js/runtime-main.ec4ee05d.js.map",
-    "static/css/2.6417943d.chunk.css": "/Shop-Laptop/static/css/2.6417943d.chunk.css",
-    "static/js/2.6571f6b0.chunk.js": "/Shop-Laptop/static/js/2.6571f6b0.chunk.js",
-    "static/js/2.6571f6b0.chunk.js.map": "/Shop-Laptop/static/js/2.6571f6b0.chunk.js.map",
-    "index.html": "/Shop-Laptop/index.html",
-    "precache-manifest.b363207f5ff845badbc42dcb75429a09.js": "/Shop-Laptop/precache-manifest.b363207f5ff845badbc42dcb75429a09.js",
-    "service-worker.js": "/Shop-Laptop/service-worker.js",
-    "static/css/2.6417943d.chunk.css.map": "/Shop-Laptop/static/css/2.6417943d.chunk.css.map",
-    "static/css/main.6d84085c.chunk.css.map": "/Shop-Laptop/static/css/main.6d84085c.chunk.css.map",
-    "static/js/2.6571f6b0.chunk.js.LICENSE.txt": "/Shop-Laptop/static/js/2.6571f6b0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Shop-Laptop/static/media/logo.5d5d9eef.svg"
+    "main.css": "/shop-laptop/static/css/main.6d84085c.chunk.css",
+    "main.js": "/shop-laptop/static/js/main.80bda9cf.chunk.js",
+    "main.js.map": "/shop-laptop/static/js/main.80bda9cf.chunk.js.map",
+    "runtime-main.js": "/shop-laptop/static/js/runtime-main.50231718.js",
+    "runtime-main.js.map": "/shop-laptop/static/js/runtime-main.50231718.js.map",
+    "static/css/2.6417943d.chunk.css": "/shop-laptop/static/css/2.6417943d.chunk.css",
+    "static/js/2.6571f6b0.chunk.js": "/shop-laptop/static/js/2.6571f6b0.chunk.js",
+    "static/js/2.6571f6b0.chunk.js.map": "/shop-laptop/static/js/2.6571f6b0.chunk.js.map",
+    "index.html": "/shop-laptop/index.html",
+    "precache-manifest.d3bcedd1dbaa381a791a6222c8bdbc19.js": "/shop-laptop/precache-manifest.d3bcedd1dbaa381a791a6222c8bdbc19.js",
+    "service-worker.js": "/shop-laptop/service-worker.js",
+    "static/css/2.6417943d.chunk.css.map": "/shop-laptop/static/css/2.6417943d.chunk.css.map",
+    "static/css/main.6d84085c.chunk.css.map": "/shop-laptop/static/css/main.6d84085c.chunk.css.map",
+    "static/js/2.6571f6b0.chunk.js.LICENSE.txt": "/shop-laptop/static/js/2.6571f6b0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shop-laptop/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec4ee05d.js",
+    "static/js/runtime-main.50231718.js",
     "static/css/2.6417943d.chunk.css",
     "static/js/2.6571f6b0.chunk.js",
     "static/css/main.6d84085c.chunk.css",
-    "static/js/main.628d42c1.chunk.js"
+    "static/js/main.80bda9cf.chunk.js"
   ]
 }
